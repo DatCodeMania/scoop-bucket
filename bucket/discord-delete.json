@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.0/discord-delete_1.0.0_windows_amd64.zip",
+            "bin": [
+                "discord-delete_1.0.0_windows_amd64/discord-delete.exe"
+            ],
+            "hash": "29edf4088e4b8b5f0e1e5390c3f41112e1457f64c155ba755e6ab9f86de87723"
+        },
+        "arm64": {
+            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.0/discord-delete_1.0.0_windows_arm64.zip",
+            "bin": [
+                "discord-delete_1.0.0_windows_arm64/discord-delete.exe"
+            ],
+            "hash": "2778722de1f1d00fa2971bde70d795ae2c47a466c1ae9027d79d62a3b3832b97"
+        }
+    },
+    "homepage": "https://github.com/DatCodeMania/discord-delete",
+    "license": "MIT",
+    "description": "Bulk-delete your Discord messages and reactions from your data package"
+}
