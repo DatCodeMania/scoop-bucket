@@ -1,19 +1,19 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.4/discord-delete_1.0.4_windows_amd64.zip",
+            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.5/discord-delete_1.0.5_windows_amd64.zip",
             "bin": [
-                "discord-delete_1.0.4_windows_amd64/discord-delete.exe"
+                "discord-delete_1.0.5_windows_amd64/discord-delete.exe"
             ],
-            "hash": "4d14fb6e9f8f92eb4a60d05de3043a0b80371512c60ab9da04fbab4f0ce830a9"
+            "hash": "c38969a4a31745946a41dc958934ecb565ae5ff0bcf87a45dddbc7cd36d9e803"
         },
         "arm64": {
-            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.4/discord-delete_1.0.4_windows_arm64.zip",
+            "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.5/discord-delete_1.0.5_windows_arm64.zip",
             "bin": [
-                "discord-delete_1.0.4_windows_arm64/discord-delete.exe"
+                "discord-delete_1.0.5_windows_arm64/discord-delete.exe"
             ],
-            "hash": "7c1477abd725fff108ca873fbdf49d5966ec7cc78a84c64c035f37f6a862fb7c"
+            "hash": "d36947cd1a3d182d6db8219a3125d4f50c7c951591807981054c000b0c4a269e"
         }
     },
     "homepage": "https://github.com/DatCodeMania/discord-delete",
