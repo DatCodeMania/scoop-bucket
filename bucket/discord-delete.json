@@ -6,14 +6,14 @@
             "bin": [
                 "discord-delete_1.0.7_windows_amd64/discord-delete.exe"
             ],
-            "hash": "0112baa7ff3e3b72a54dd305bdc70ff983ac848294a13f4ca569b62d84f5f31d"
+            "hash": "1cf9535210e0d8fe27d657c959ceee5abc970770a9e1598069fea8d4c41b0517"
         },
         "arm64": {
             "url": "https://github.com/DatCodeMania/discord-delete/releases/download/v1.0.7/discord-delete_1.0.7_windows_arm64.zip",
             "bin": [
                 "discord-delete_1.0.7_windows_arm64/discord-delete.exe"
             ],
-            "hash": "3e9307c85f990bd0c93e08ccac6449ba174749bf736358147c2620f42827f19a"
+            "hash": "6bff59ab32c142b5bd42b6008b15fa2de9668c6b0b71b88c873ef6a963257ce0"
         }
     },
     "homepage": "https://github.com/DatCodeMania/discord-delete",
